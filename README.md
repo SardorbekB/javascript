@@ -1,0 +1,2 @@
+# javascript
+javascriptga oid masalalar!!!
